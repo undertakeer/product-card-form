@@ -1,0 +1,8 @@
+# Remove node_modules locally
+rm -rf node_modules
+
+# Remove Next.js build folder
+rm -rf .next
+
+# Optional: remove any logs or temp files
+rm -rf *.log
